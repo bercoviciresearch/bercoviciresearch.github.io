@@ -13,5 +13,9 @@ Research in the Bercovici Research group generally focuses on useful small molec
 ### Contact me
 
 [dbercovi@calpoly.edu](mailto:dbercovi@calpoly.edu)
+
+
 or
+
+
 [bercoviciresearch@gmail.com](mailto:bercoviciresearch@gmail.com)

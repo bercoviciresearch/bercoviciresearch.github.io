@@ -12,5 +12,5 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-dbercovi@calpoly.edu (mailto:dbercovi@calpoly.edu)
-bercoviciresearch@gmail.com (mailto:bercoviciresearch@gmail.com)
+[dbercovi@calpoly.edu](mailto:dbercovi@calpoly.edu)
+[bercoviciresearch@gmail.com](mailto:bercoviciresearch@gmail.com)

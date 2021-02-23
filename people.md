@@ -8,7 +8,11 @@ permalink: /people/
 
 **Erica Medhurst (Fall 2021)**
 <img src="{{site.baseurl}}/images/EMedhurst1.jpg" alt="Picture of Erica" height="40%" width="40%" style="align: right; margin-top: 0px; margin-left: 10px margin-bottom: 10px" />
+
+
 Major: Chemistry 
+
+
 Favorite things besides Chemistry: longboarding, playing softball, going to the beach, relaxing (being a Chemistry major is hard!), and spending time with my friends and family
 
 ---------------------

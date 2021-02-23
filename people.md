@@ -7,7 +7,7 @@ permalink: /people/
 ## Current Group Members
 
 **Erica Medhurst (Fall 2021)**
-| <img src="{{site.baseurl}}/images/EMedhurst1.jpg" alt="Picture of Erica" height="20%" width="20%" style="float: right; margin-top: 0px; margin-left: 10px margin-bottom: 10px" />
+<img src="{{site.baseurl}}/images/EMedhurst1.jpg" alt="Picture of Erica" height="20%" width="20%" style="float: right; margin-top: 0px; margin-left: 10px margin-bottom: 10px" />
 
 
 -*Major:* Chemistry 
@@ -20,7 +20,7 @@ permalink: /people/
 
 
 **Ava Henry (Spring 2022)**
-| <img src="{{site.baseurl}}/images/AHenry1.jpg" alt="Picture of Erica" height="20%" width="20%" style="float: right; margin-top: 0px; margin-left: 10px margin-bottom: 10px" />
+<img src="{{site.baseurl}}/images/AHenry1.jpg" alt="Picture of Erica" height="20%" width="20%" style="float: right; margin-top: 0px; margin-left: 10px margin-bottom: 10px" />
 
 
 -*Major:* Biochemistry

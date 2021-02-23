@@ -4,4 +4,6 @@ title: Group Members
 permalink: /people/
 ---
 
-Include information about current and past group members here. 
+**Current Group Members
+Erica Medhurst
+![Alternative Text]( {{ site.baseurl }}/images/picture_EMedhurst1.png )

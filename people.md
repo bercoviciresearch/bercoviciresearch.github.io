@@ -4,6 +4,7 @@ title: Group Members
 permalink: /people/
 ---
 
-**Current Group Members
+**Current Group Members**
 Erica Medhurst
-[a picture of erica]( {{ site.baseurl }}/images/picture_EMedhurst1.png )
+
+[a picture of erica]( {{ site.bercoviciresearch }}/images/picture_EMedhurst1.png )

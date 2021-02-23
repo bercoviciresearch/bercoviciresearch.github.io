@@ -15,4 +15,4 @@ Favorite things besides Chemistry: longboarding, playing softball, going to the 
 ![a picture of Erica]({{site.baseurl}}/images/EMedhurst1.jpg {:height="50%" width="50%"} )
 
 
-<img src="{{site.baseurl}}/images/picture_EMedhurst1.jpg" alt="Picture of Erca" height=40% width="40%" style="float: right; margin-top: 0px; margin-left: 10px" />
+<img src="{{site.baseurl}}/images/EMedhurst1.jpg" alt="Picture of Erica" height=40% width="40%" style="float: right; margin-top: 0px; margin-left: 10px" />

@@ -75,6 +75,13 @@ permalink: /people/
 
 -------------------
 
+**Scott L'Heureux (Spring 2023)**
+
+-------------------
+
+**Michelle Yuu (Spring 2023)**
+
+-------------------
 
 ## Former Group Members
 

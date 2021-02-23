@@ -86,6 +86,16 @@ permalink: /people/
 ## Former Group Members
 
 **Denzel Ayala (Spring 2018)**
+<img src="{{site.baseurl}}/images/denzelayala.jpg" alt="Picture of Denzel" height="20%" width="20%" style="float: right; margin-top: 0px; margin-left: 10px margin-bottom: 10px" />
+-*Currently:* Working on a M.Sc. in Materials Science at the University of Vermont
+<div style="clear:right;"></div>
 
+------------
 
 **Bailey Wong (Spring 2019)**
+<img src="{{site.baseurl}}/images/BWong.jpg" alt="Picture of Bailey" height="20%" width="20%" style="float: right; margin-top: 0px; margin-left: 10px margin-bottom: 10px" />
+-*Currently:* Working on a Ph.D. in Chemistry at the University of California, Davis
+<div style="clear:right;"></div>
+
+------------
+

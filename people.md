@@ -19,9 +19,15 @@ Favorite things besides Chemistry: longboarding, playing softball, going to the 
 
 
 **Ava Henry (Spring 2022)**
+<img src="{{site.baseurl}}/images/AHenry1.jpg" alt="Picture of Erica" height="40%" width="40%" style="float: right; margin-top: 0px; margin-left: 10px margin-bottom: 10px" />
 Major: Biochemistry
+Favorite things besides Chemistry: Hiking, cooking, and video games 
 
-Favorite things besides Chemistry: Hiking, cooking, and video games <img src="{{site.baseurl}}/images/AHenry1.jpg" alt="Picture of Erica" height="40%" width="40%" style="float: right; margin-top: 0px; margin-left: 10px margin-bottom: 10px" />
+
+
+
+
+
 
 
 **David Malouf (Winter 2021)**

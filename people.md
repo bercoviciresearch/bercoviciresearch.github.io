@@ -6,6 +6,22 @@ permalink: /people/
 
 ## Current Group Members
 
+**David Malouf (Winter 2021)**
+
+---------
+
+**Angel Canales (Spring 2021)**
+
+---------
+
+**Andres Hinjosa (Spring 2021)**
+
+---------
+
+**Simone Eggerton (Spring 2021)**
+
+-------------------
+
 **Erica Medhurst (Fall 2021)**
 <img src="{{site.baseurl}}/images/EMedhurst1.jpg" alt="Picture of Erica" height="20%" width="20%" style="float: right; margin-top: 0px; margin-left: 10px margin-bottom: 10px" />
 
@@ -20,6 +36,9 @@ permalink: /people/
 
 ---------------------
 
+**Abby Richardson  (Fall 2021)**
+
+---------------------
 
 **Ava Henry (Spring 2022)**
 <img src="{{site.baseurl}}/images/AHenry1.jpg" alt="Picture of Erica" height="20%" width="20%" style="float: right; margin-top: 0px; margin-left: 10px margin-bottom: 10px" />
@@ -34,24 +53,27 @@ permalink: /people/
 <div style="clear:right;"></div>
 
 
-
 --------------------
 
+**Jerry Sheng (Spring 2022)**
 
+-------------------
 
+**Julia Munson (Spring 2022)**
 
+-------------------
 
+**Ty Cecil (Spring 2022)**
 
-**David Malouf (Winter 2021)**
+-------------------
 
+**Ryan Behnke (Spring 2022)**
 
-**Abby Richardson  (Fall 2021)**
+-------------------
 
+**Elizabeth "Betsy" McDonough (Spring 2022)**
 
-**Angel Canales (Spring 2021)**
-
-
-**Andres Hinjosa (Spring 2021)**
+-------------------
 
 
 ## Former Group Members

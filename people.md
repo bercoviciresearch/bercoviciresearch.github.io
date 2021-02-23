@@ -4,7 +4,7 @@ title: Group Members
 permalink: /people/
 ---
 
-##Current Group Members##
+##Current Group Members
 
 Erica Medhurst (Fall 2021)
 

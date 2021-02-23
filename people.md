@@ -41,7 +41,7 @@ permalink: /people/
 
 -------------------
 
-**Ty Cecil (Spring 2022)**≈
+**Ty Cecil (Spring 2022)**
 
 -------------------
 

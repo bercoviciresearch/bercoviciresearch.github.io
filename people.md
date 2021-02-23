@@ -7,7 +7,7 @@ permalink: /people/
 ## Current Group Members
 
 **Erica Medhurst (Fall 2021)**
-<img src="{{site.baseurl}}/images/EMedhurst1.jpg" alt="Picture of Erica" height="20%" width="20%" style="float: right; margin-top: 0px; margin-left: 10px margin-bottom: 100px" />
+<img src="{{site.baseurl}}/images/EMedhurst1.jpg" alt="Picture of Erica" height="20%" width="20%" style="float: right; margin-top: 0px; margin-left: 10px margin-bottom: 10px" />
 
 
 -*Major:* Chemistry 
@@ -27,6 +27,10 @@ permalink: /people/
 
 
 -*Favorite things besides Chemistry:* Hiking, cooking, and video games 
+
+
+
+
 
 
 --------------------

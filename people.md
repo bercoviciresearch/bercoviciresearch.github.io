@@ -6,4 +6,4 @@ permalink: /people/
 
 **Current Group Members
 Erica Medhurst
-![Alternative Text]( {{ site.baseurl }}/images/picture_EMedhurst1.png )
+[a picture of erica]( {{ site.baseurl }}/images/picture_EMedhurst1.png )

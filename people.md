@@ -12,4 +12,4 @@ Major: Chemistry
 
 Favorite things besides Chemistry: longboarding, playing softball, going to the beach, relaxing (being a Chemistry major is hard!), and spending time with my friends and family
 
-![a picture of Erica]({{site.baseurl}}/images/EMedhurst1.jpg){:height="50%" width="50%"} 
+![a picture of Erica]({{site.baseurl}}/images/EMedhurst1.jpg {:height="50%" width="50%"} )

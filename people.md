@@ -15,6 +15,8 @@ permalink: /people/
 
 -*Favorite things besides Chemistry:* longboarding, playing softball, going to the beach, relaxing (being a Chemistry major is hard!), and spending time with my friends and family
 
+<div style="clear:right;"></div>
+
 
 ---------------------
 
@@ -29,7 +31,7 @@ permalink: /people/
 -*Favorite things besides Chemistry:* Hiking, cooking, and video games 
 
 
-
+<div style="clear:right;"></div>
 
 
 

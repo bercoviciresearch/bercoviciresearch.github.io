@@ -6,7 +6,7 @@ permalink: /people/
 
 ## Current Group Members
 
-Erica Medhurst (Fall 2021)
+**Erica Medhurst (Fall 2021)**
 
 Major: Chemistry 
 

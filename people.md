@@ -8,4 +8,4 @@ permalink: /people/
 
 Erica Medhurst
 
-![a picture of erica]( {{ site.bercoviciresearch }}/images/picture_EMedhurst1.png )
+![a picture of Erica]({{site.baseurl}}/images/picture_EMedhurst1.png)

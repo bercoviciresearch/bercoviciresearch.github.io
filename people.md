@@ -34,7 +34,7 @@ permalink: /people/
 ---------------------
 
 **Abby Richardson  (Fall 2021)**
-<img src="{{site.baseurl}}/images/arichardson" alt="Picture of Abby" height="20%" width="20%" style="float: right; margin-top: 0px; margin-left: 10px margin-bottom: 10px" />
+<img src="{{site.baseurl}}/images/arichardson.jpg" alt="Picture of Abby" height="20%" width="20%" style="float: right; margin-top: 0px; margin-left: 10px margin-bottom: 10px" />
 
 -*Major:* Biochemistry 
 
@@ -79,7 +79,7 @@ permalink: /people/
 -------------------
 
 **Scott L'Heureux (Spring 2023)**
-<img src="{{site.baseurl}}/images/scottlheureux" alt="Picture of Scott" height="20%" width="20%" style="float: right; margin-top: 0px; margin-left: 10px margin-bottom: 10px" />
+<img src="{{site.baseurl}}/images/scottlheureux.jpg" alt="Picture of Scott" height="20%" width="20%" style="float: right; margin-top: 0px; margin-left: 10px margin-bottom: 10px" />
 
 
 -*Major:* Chemistry

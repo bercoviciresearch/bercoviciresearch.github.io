@@ -34,6 +34,13 @@ permalink: /people/
 ---------------------
 
 **Abby Richardson  (Fall 2021)**
+<img src="{{site.baseurl}}/images/arichardson.jpg" alt="Picture of Abby" height="20%" width="20%" style="float: right; margin-top: 0px; margin-left: 10px margin-bottom: 10px" />
+
+-*Major:* Biochemistry 
+
+-*Favorite things besides Chemistry:* reading, photography, embroidery, and hugging my dog
+
+<div style="clear:right;"></div>
 
 ---------------------
 
@@ -46,7 +53,7 @@ permalink: /people/
 -------------------
 
 **Ava Henry (Spring 2022)**
-<img src="{{site.baseurl}}/images/AHenry1.jpg" alt="Picture of Erica" height="20%" width="20%" style="float: right; margin-top: 0px; margin-left: 10px margin-bottom: 10px" />
+<img src="{{site.baseurl}}/images/AHenry1.jpg" alt="Picture of Ava" height="20%" width="20%" style="float: right; margin-top: 0px; margin-left: 10px margin-bottom: 10px" />
 
 
 -*Major:* Biochemistry
@@ -72,6 +79,16 @@ permalink: /people/
 -------------------
 
 **Scott L'Heureux (Spring 2023)**
+<img src="{{site.baseurl}}/images/scottlheureux.jpg" alt="Picture of Scott" height="20%" width="20%" style="float: right; margin-top: 0px; margin-left: 10px margin-bottom: 10px" />
+
+
+-*Major:* Chemistry
+
+
+-*Favorite things besides Chemistry:* Running, weightlifting, learning languages, music, and board/video games with friends
+
+<div style="clear:right;"></div>
+
 
 -------------------
 

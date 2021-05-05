@@ -65,7 +65,18 @@ permalink: /people/
 
 -------------------
 
-**Julia Munson (Spring 2022)**
+**Julia Munson (Winter 2022)**
+
+<img src="{{site.baseurl}}/images/jmunson.jpg" alt="Picture of Julia" height="20%" width="20%" style="float: right; margin-top: 0px; margin-left: 10px margin-bottom: 10px" />
+
+
+-*Major:* Chemistry
+
+
+-*Favorite things besides Chemistry:* Cooking & baking (aka chemistry you can eat), scuba diving, roller skating, going to the beach, hiking, and spending time with friends
+
+<div style="clear:right;"></div>
+
 
 -------------------
 

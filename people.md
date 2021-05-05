@@ -59,8 +59,7 @@ permalink: /people/
 -*Major:* Biochemistry
 
 
--*Favorite things besides Chemistry:* Hiking, cooking, and video games 
-
+-*Favorite things besides Chemistry:* hiking, cooking, spending time with friends, binge watching movies, video games, and going to concerts
 
 <div style="clear:right;"></div>
 

@@ -104,7 +104,7 @@ permalink: /people/
 
 **Michelle Yuu (Spring 2023)**
 
-<img src="{{site.baseurl}}/images/mluu.jpg" alt="Picture of Michelle" height="20%" width="20%" style="float: right; margin-top: 0px; margin-left: 10px margin-bottom: 10px" />
+<img src="{{site.baseurl}}/images/mluu.jpeg" alt="Picture of Michelle" height="20%" width="20%" style="float: right; margin-top: 0px; margin-left: 10px margin-bottom: 10px" />
 
 
 -*Major:* Biochemistry

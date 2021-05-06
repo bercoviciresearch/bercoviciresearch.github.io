@@ -8,6 +8,14 @@ permalink: /people/
 
 **David Malouf (Winter 2021)**
 
+<img src="{{site.baseurl}}/images/dmalouf.jpg" alt="Picture of David" height="20%" width="20%" style="float: right; margin-top: 0px; margin-left: 10px margin-bottom: 10px" />
+
+-*Major:* Microbiology
+
+-*Favorite things besides Chemistry:* Surfing, hiking, piano, building, cooking, and spending time with family and friends!
+
+<div style="clear:right;"></div>
+
 ---------
 
 **Angel Canales (Spring 2021)**

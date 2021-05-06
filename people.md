@@ -8,7 +8,7 @@ permalink: /people/
 
 **David Malouf (Winter 2021)**
 
-<img src="{{site.baseurl}}/images/dmalouf.jpg" alt="Picture of David" height="20%" width="20%" style="float: right; margin-top: 0px; margin-left: 10px margin-bottom: 10px" />
+<img src="{{site.baseurl}}/images/dmalouf1.jpg" alt="Picture of David" height="20%" width="20%" style="float: right; margin-top: 0px; margin-left: 10px margin-bottom: 10px" />
 
 -*Major:* Microbiology
 
